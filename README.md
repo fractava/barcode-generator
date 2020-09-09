@@ -1,1 +1,1 @@
-# Fractava Barcode Generator
+# FRACTAVA Barcode Generator
